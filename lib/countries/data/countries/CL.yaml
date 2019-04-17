@@ -21,12 +21,10 @@ CL:
   un_locode: CL
   nationality: Chilean
   vat_rates:
-    standard: 19
-    reduced:
-    - 6
-    - 13
+    standard: 16
+    reduced: []
     super_reduced:
-    parking: 13
+    parking:
   postal_code: true
   unofficial_names:
   - Chile
